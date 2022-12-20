@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	// Ηδερό ασδες ημεικΰ
+	setlocale(LC_CTYPE, "Rus");
+	// Γ‡Γ¤Γ¥Γ±ΓΌ Γ΅Γ³Γ¤Γ¥Γ² Γ§Γ¬Γ¥Γ©ΓªΓ 
 }
